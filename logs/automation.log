@@ -1,0 +1,10 @@
+12:21:39.823 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+12:21:40.303 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+12:21:40.458 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****
+12:21:40.658 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+12:21:41.129 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+12:21:41.144 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+12:21:41.819 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+12:21:41.821 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+12:21:44.154 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****
+12:21:45.119 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****

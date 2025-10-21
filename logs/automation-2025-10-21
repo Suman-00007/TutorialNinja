@@ -1,0 +1,51 @@
+12:13:48.283 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:13:48.294 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:13:48.294 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:13:59.478 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+12:13:59.628 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****
+12:13:59.783 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+12:14:00.871 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+12:14:00.880 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+12:14:01.801 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+12:14:01.931 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****
+12:14:02.086 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+12:14:03.665 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****
+12:14:03.686 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+12:14:03.686 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+12:14:06.090 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****
+12:21:27.737 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303544\newEclipseworkspace\TutorialNunja\parallelTesting.xml"
+12:21:27.909 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String)[pri:0, instance:null] -1422203584
+12:21:27.910 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+12:21:27.911 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:21:27.911 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:21:27.911 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:21:27.912 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+12:21:27.913 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+12:21:27.913 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:21:27.913 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:21:27.913 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:21:27.916 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_UserRegistration.verifyRegistration()[pri:1, instance:testCases.TC001_UserRegistration@5733f295] 1029396970
+12:21:27.917 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+12:21:27.917 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:21:27.917 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:21:27.917 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:21:27.931 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String)[pri:0, instance:null] -1422203584
+12:21:27.931 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+12:21:27.931 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:21:27.931 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:21:27.931 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:21:27.933 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+12:21:27.933 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+12:21:27.933 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:21:27.933 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:21:27.933 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:21:27.935 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_UserRegistration.verifyRegistration()[pri:1, instance:testCases.TC001_UserRegistration@278bb07e] 229840851
+12:21:27.935 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+12:21:27.935 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+12:21:27.935 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+12:21:27.935 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+12:21:27.937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303544\newEclipseworkspace\TutorialNunja\parallelTesting.xml
+
+12:21:39.266 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+12:21:39.500 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****

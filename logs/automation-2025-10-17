@@ -1,0 +1,50 @@
+18:10:35.161 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+18:10:35.187 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+18:11:36.819 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303544\newEclipseworkspace\TutorialNunja\parallelTesting.xml"
+18:11:37.070 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303544\newEclipseworkspace\TutorialNunja\parallelTesting.xml
+
+18:11:50.929 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+18:11:51.006 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+18:11:51.818 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****
+18:11:51.819 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****
+18:11:52.157 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+18:11:52.190 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+18:11:53.542 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+18:11:53.548 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+18:11:53.891 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+18:11:53.892 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+18:11:57.401 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****
+18:11:57.417 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****
+18:14:43.895 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303544\newEclipseworkspace\TutorialNunja\parallelTesting.xml"
+18:14:44.096 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303544\newEclipseworkspace\TutorialNunja\parallelTesting.xml
+
+18:14:54.338 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+18:14:54.624 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****
+18:14:54.736 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+18:14:54.898 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****
+18:14:55.013 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+18:14:55.231 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+18:14:56.271 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+18:14:56.277 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+18:14:56.293 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+18:14:56.294 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+18:14:58.740 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****
+18:14:58.986 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****
+19:35:51.125 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303544\newEclipseworkspace\TutorialNunja\parallelTesting.xml"
+19:35:51.719 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303544\newEclipseworkspace\TutorialNunja\parallelTesting.xml
+
+19:36:03.450 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+19:36:03.664 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****
+19:36:03.973 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+19:36:04.589 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** tutorialsninja Website opened *****
+19:36:04.731 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Starts*****
+19:36:04.944 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on MyAccount*****
+19:36:05.566 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+19:36:05.574 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+19:36:05.831 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Clicked on Register*****
+19:36:05.833 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** User REgistration going on *****
+19:36:09.055 [TestNG-tests-2] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****
+19:36:09.187 [TestNG-tests-1] INFO  testCases.TC001_UserRegistration - ***** Test verifyRegistration Passed *****
