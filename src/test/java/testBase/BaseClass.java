@@ -37,7 +37,7 @@ public Properties p;
 		
 		logger = LogManager.getLogger(this.getClass());
 		p= new Properties();
-		FileReader file = new FileReader(".\\src\\test\\java\\Utilities\\config.properties");
+		FileReader file = new FileReader(".\\src\\test\\java\\resources\\config.properties");
 		p.load(file);
 		
 		
